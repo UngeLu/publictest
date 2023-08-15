@@ -1,3 +1,3 @@
 # publictest
 Read Me:
-HILFE
+HILFE!
